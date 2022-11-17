@@ -50,4 +50,4 @@ Fork this repository.
 
 ## Video
 
-file:///Users/juanamaldonado/Downloads/Untitled_%20Nov%2016,%202022%209_26%20PM.webm
+https://drive.google.com/file/d/14PInm9BDFBGLY-aSe8pQXBbxlVEALUfD/view
