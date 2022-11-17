@@ -65,7 +65,7 @@ const questions = [
         type: 'checkbox',
         name: 'license',
         message: 'Choose a license:',
-        choices: ["MIT", "Creative Commons", "Apache", "GNU","none of the above"],
+        choices: ["MIT", "GPL", "Apache", "Boost"],
         validate: user_license => {
             if (user_license) {
                 return true;
@@ -136,9 +136,9 @@ function writeToFile(filename,data){
 // TODO: Create a function to initialize app
 function init() {
     inquirer.prompt(questions)
-    .then(function(userInput){
-        console.log(userInput)
-        writeToFile("README.md",generateMarkdown(userInput));
+    .then(function(answers){
+        console.log(answers)
+        writeToFile("README.md",generateMarkdown(answers));
     }); 
         
 
