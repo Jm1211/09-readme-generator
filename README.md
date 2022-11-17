@@ -2,7 +2,7 @@
 
  
  ## Description
- Allows you to create a professional README file
+ This application allows you to generate a professional README file.
 
 ## Table of Contents
 
@@ -18,28 +18,28 @@
 ## Installation
 
 ### You must install the following:
- inquirer
+ Clone this repo then in your terminal run node index. The inquirer package must be installed.
 
 ## Usage
 
-npm i to install inquirer package
+npm i inquirer, in terminal run node index
 
 ## Credits
 
-N/A
+Starter code was provided for this project.
 
 ## License
 
- [![license](https://img.shields.io/badge/license-Apache-blue.svg)](https://shileds.io/)
+ [![license](https://img.shields.io/badge/license-MIT-blue.svg)](https://shileds.io/)
 
 
 ## Contribution
 
-Fork repo
+Fork this repository.
 
 ## Testing
 
- in the terminal run node index.js
+ N/A
 
 ## Questions
 
