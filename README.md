@@ -47,3 +47,7 @@ Fork this repository.
 ### Github: https://github.com/Jm1211
 ### or
 ### Email: juana_801@yahoo.com
+
+## Video
+
+file:///Users/juanamaldonado/Downloads/Untitled_%20Nov%2016,%202022%209_26%20PM.webm
