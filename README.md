@@ -1,7 +1,8 @@
-# readme generator
+# README Generator
+
  
  ## Description
- creates readme
+ Allows you to create a professional README file
 
 ## Table of Contents
 
@@ -17,28 +18,28 @@
 ## Installation
 
 ### You must install the following:
- na
+ inquirer
 
 ## Usage
 
-na
+npm i to install inquirer package
 
 ## Credits
 
-na
+N/A
 
 ## License
 
- 
+ [![license](https://img.shields.io/badge/license-Apache-blue.svg)](https://shileds.io/)
 
 
 ## Contribution
 
-na
+Fork repo
 
 ## Testing
 
- na
+ in the terminal run node index.js
 
 ## Questions
 
