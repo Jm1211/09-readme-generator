@@ -24,50 +24,66 @@ function renderLicenseBadge(license) {
 
 
 // TODO: Create a function to generate markdown for README
-function generateMarkdown(data) {
- return `# ${data.title}
+function generateMarkdown(
+    title,
+    description,
+    installation,
+    usage,
+    credits,
+    license,
+    contribution,
+    tests,
+    github,
+    email
+) {
+ return `# ${title}
  
  ## Description
- ${data.description}
+ ${description}
 
 ## Table of Contents
 
 -[Description](#description)
 -[Installation](#installation)
 -[Usage](#usage)
+-[Credits](#credits)
 -[License](#license)
 -[Contribution](#contribution)
 -[Testing](#tests)
--[Questions]
+-[Questions](#questions)
 
 ## Installation
 
 ### You must install the following:
-### ${data.installation}
+ ${installation}
 
 ## Usage
 
-###${data.usage}
+${usage}
+
+## Credits
+
+${credits}
 
 ## License
 
-### ${renderLicenseBadge}
+ ${renderLicenseBadge(license)}
 
 
 ## Contribution
 
-### ${data.contribution}
+${contribution}
 
 ## Testing
 
-### ${data.tests}
+ ${tests}
 
 ## Questions
 
 ### If you have any questions please contact me at:
-### Github: https://github.com/${data.github}
+### Github: https://github.com/${github}
 ### or
-### Email: ${data.email}
+### Email: ${email}
 `;
 }
 

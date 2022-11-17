@@ -1,60 +1,48 @@
-# undefined
+# readme generator
  
  ## Description
- undefined
+ creates readme
 
 ## Table of Contents
 
 -[Description](#description)
 -[Installation](#installation)
 -[Usage](#usage)
+-[Credits](#credits)
 -[License](#license)
 -[Contribution](#contribution)
 -[Testing](#tests)
--[Questions]
+-[Questions](#questions)
 
 ## Installation
 
 ### You must install the following:
-### undefined
+ na
 
 ## Usage
 
-###undefined
+na
+
+## Credits
+
+na
 
 ## License
 
-### function renderLicenseBadge(license) {
-    switch (license) {
-        case "MIT":
-          return "[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)";
-    
-        case "GPL v3":
-           return "[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)";
-    
-        case "Apache":
-          return "[![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)";
-    
-        case "Boost":
-            return "[![License](https://img.shields.io/badge/License-Boost_1.0-lightblue.svg)](https://www.boost.org/LICENSE_1_0.txt)";
-        default:
-          return "";
-      }
-                
-}
+ 
 
 
 ## Contribution
 
-### undefined
+na
 
 ## Testing
 
-### undefined
+ na
 
 ## Questions
 
 ### If you have any questions please contact me at:
-### Github: https://github.com/undefined
+### Github: https://github.com/Jm1211
 ### or
-### Email: undefined
+### Email: juana_801@yahoo.com

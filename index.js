@@ -57,7 +57,7 @@ const questions = [
     },
     {
         type: 'input',
-        name: 'Github',
+        name: 'github',
         message: 'Enter your Github username:',
         
     },
@@ -92,7 +92,7 @@ function init() {
           usage,
           credits,
           license,
-          contributions,
+          contribution,
           tests,
           github,
           email,
@@ -104,7 +104,7 @@ function init() {
             usage,
             credits,
             license,
-            contributions,
+            contribution,
             tests,
             github,
             email
